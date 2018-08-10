@@ -1,2 +1,2 @@
 # douyu
-douyuAPP
+douyuAAPP, Swift
